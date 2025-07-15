@@ -1,0 +1,9 @@
+SerialNum,Month,Accuracy
+1,yhat,"Series([], Name: yhat, dtype: float64)"
+1,y,"Series([], Name: y, dtype: float64)"
+5,yhat,"Series([], Name: yhat, dtype: float64)"
+5,y,"Series([], Name: y, dtype: float64)"
+2,yhat,"Series([], Name: yhat, dtype: float64)"
+2,y,"Series([], Name: y, dtype: float64)"
+4,yhat,"Series([], Name: yhat, dtype: float64)"
+4,y,"Series([], Name: y, dtype: float64)"
